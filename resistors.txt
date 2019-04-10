@@ -1,0 +1,8 @@
+
+maxI = 50 MA
+ V= 5 V
+min: R = 100 ohm
+
+red R = 2.3/0.020 = 57 -->  100
+Green / blue R = 3.4/0.20  -->  150
+ 
